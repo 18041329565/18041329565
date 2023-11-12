@@ -2,7 +2,7 @@
 - 👀 I’m a student
 - 🌱 I’m currently learning Pi network 3.0
 - 💞️ I’m looking to collaborate on ...
-- 📫 18041329565@163.com
+- 📫 Email:18041329565@163.com
 
 <!---
 18041329565/18041329565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
