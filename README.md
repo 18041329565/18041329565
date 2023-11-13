@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @18041329565
 - 👀 I’m a student
 - 🌱 I’m currently learning Pi network 3.0
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email:18041329565@163.com
 
 <!---
